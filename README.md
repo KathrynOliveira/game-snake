@@ -1,4 +1,4 @@
-# Snake Game 🐍�
+# Snake Game 🐍
 
 O Jogo da Cobrinha é um clássico atemporal, agora disponível em versão web totalmente funcional!
 Controle a cobrinha usando as setas do teclado e tente comer a comida vermelha que aparece aleatoriamente no cenário. A cada alimento consumido, a cobra cresce e sua pontuação aumenta.
